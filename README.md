@@ -1,4 +1,4 @@
-##  DOCKER PROJECT 
+##  DOCKER PROJECT .
  I have learnt the docker under the guidence of **MR.Vimal Daga sir**.
  
 * This project of docker is to set-up enviroment of wordpress on loacal machine.
